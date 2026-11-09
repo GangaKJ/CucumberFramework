@@ -1,0 +1,10 @@
+# Maven generated files
+target/
+
+# Eclipse configuration files
+.settings/
+.classpath
+.project
+
+# Log files
+*.log
